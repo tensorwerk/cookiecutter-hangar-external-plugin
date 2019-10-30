@@ -4,5 +4,5 @@
     "version": "0.0.1",
     "author": null,
     "author_email": null,
-    "licence": ["MIT", "BSD 3-Clause", "Apache Software License 2.0"]
+    "license": ["MIT", "BSD 3-Clause", "Apache Software License 2.0"]
 }
